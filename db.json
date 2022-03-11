@@ -2,8 +2,8 @@
   "tasks": [
     {
       "id": 1,
-      "text": "terminar primer modulo de angular",
-      "day": "Agosto 5 a las 12:00",
+      "text": "Hacer las compras para la almuerzo",
+      "day": "Agosto 5 a las 11:00",
       "reminder": true
     },
     {
