@@ -10,6 +10,7 @@ import { TASKS } from 'src/app/mock-task';
 })
 export class TasksComponent implements OnInit {
   tasks: Task[] = TASKS;
+
   constructor() { }
 
   ngOnInit(): void {
